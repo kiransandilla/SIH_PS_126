@@ -386,7 +386,8 @@ function readMetrics() {
     card(pres, s, 5.05, 1.6, 4.7, 0.62, LIGHT.blue, "B7C7E8");
     s.addImage({ data: ICONS.github, x: 5.15, y: 1.72, w: 0.3, h: 0.3 });
     txt(s, "GIT-HUB LINK", 5.55, 1.64, 2.5, 0.22, { fontSize: 10, bold: true, color: BLUE });
-    txt(s, "Complete repository — simulator, perception, risk map, planner, dashboard, evaluation harness  ·  [GitHub link – add before submission]", 5.55, 1.86, 4.1, 0.32, { fontSize: 7, color: TEXT });
+    txt(s, "Complete repository — simulator, risk map, planner, evaluation harness, deck generator", 5.55, 1.84, 4.1, 0.18, { fontSize: 7, color: TEXT });
+    txt(s, "https://github.com/kiransandilla/SIH_PS_126", 5.55, 2.02, 4.1, 0.18, { fontSize: 8, bold: true, color: INK, hyperlink: { url: "https://github.com/kiransandilla/SIH_PS_126" } });
     txt(s, "RESEARCH & REFERENCES", 5.05, 2.32, 4.7, 0.25, { fontSize: 11, bold: true, color: NAVY });
     const refs = [
       "Wigness et al., RUGD: A Dataset for Autonomous Navigation in Unstructured Outdoor Environments, IROS 2019.",
