@@ -1,0 +1,9 @@
+code/output/*.png
+code/output/*.mp4
+slides/node_modules/
+slides/preview/
+slides/package-lock.json
+__pycache__/
+*.pyc
+.DS_Store
+SIH_HACKTIDE_FINAL_PS_92.pdf

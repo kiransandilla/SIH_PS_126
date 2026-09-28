@@ -1,0 +1,54 @@
+[   0.0s] PLAN_initial  A*: 37 ms
+[  14.1s] WORLD_rock_appears  at (27,27) m
+[  14.3s] DETECT_new_hazard  latency 300 ms
+[  14.3s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 11 ms
+[  23.8s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 11 ms
+[  30.0s] WORLD_novel_appears  at (38,38) m
+[  30.8s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 11 ms
+[  32.0s] DETECT_new_hazard  latency 2100 ms
+[  46.0s] WORLD_lighting  sun intensity -> 0.15
+[  46.1s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 10 ms
+[  46.6s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 11 ms
+[  47.0s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  47.3s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 10 ms
+[  48.0s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 12 ms
+[  48.5s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 10 ms
+[  49.0s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 11 ms
+[  49.5s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 11 ms
+[  50.1s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 10 ms
+[  50.6s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 11 ms
+[  51.1s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 10 ms
+[  51.6s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 10 ms
+[  52.1s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 10 ms
+[  52.6s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 10 ms
+[  53.1s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 8 ms
+[  53.6s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 9 ms
+[  54.3s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  54.5s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 9 ms
+[  54.6s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  55.1s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 9 ms
+[  55.8s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 9 ms
+[  56.3s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 8 ms
+[  56.8s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 7 ms
+[  57.4s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 8 ms
+[  58.3s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 7 ms
+[  58.9s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 8 ms
+[  59.6s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 6 ms
+[  60.1s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 7 ms
+[  60.6s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 6 ms
+[  61.1s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 6 ms
+[  61.7s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 6 ms
+[  62.2s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 5 ms
+[  62.8s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 5 ms
+[  63.3s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 5 ms
+[  63.9s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 5 ms
+[  64.5s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 5 ms
+[  65.1s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 5 ms
+[  66.1s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 4 ms
+[  66.7s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 4 ms
+[  67.6s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 3 ms
+[  68.2s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 3 ms
+[  68.8s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 3 ms
+[  69.4s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 3 ms
+[  70.0s] WORLD_lighting  sun intensity -> 1.00
+[  80.7s] GOAL_reached  93.2 m in 81 s

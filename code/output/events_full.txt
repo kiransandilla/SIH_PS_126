@@ -1,0 +1,49 @@
+[   0.0s] PLAN_initial  A*: 21 ms
+[  14.1s] WORLD_rock_appears  at (27,27) m
+[  14.1s] DETECT_new_hazard  latency 100 ms
+[  14.1s] E1_path_blocked  new lethal cell on path (risk 92) -> replan 12 ms
+[  24.4s] E2_path_risk_rise  mean +21 -> replan 11 ms
+[  28.2s] E1_path_blocked  new lethal cell on path (risk 91) -> replan 11 ms
+[  29.6s] E1_path_blocked  new lethal cell on path (risk 91) -> replan 10 ms
+[  30.0s] WORLD_novel_appears  at (34,47) m
+[  30.0s] DETECT_new_hazard  latency 100 ms
+[  30.2s] E1_path_blocked  new lethal cell on path (risk 98) -> replan 11 ms
+[  46.0s] WORLD_lighting  sun intensity -> 0.15
+[  46.2s] GOV_band  CAUTIOUS (C=0.75)
+[  46.2s] E3_confidence_band_change  cost function changed -> replan 11 ms
+[  46.3s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  47.3s] E1_path_blocked  new lethal cell on path (risk 91) -> replan 15 ms
+[  47.4s] GOV_band  CONSERVATIVE (C=0.50)
+[  47.9s] E1_path_blocked  new lethal cell on path (risk 90) -> replan 12 ms
+[  48.4s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  50.4s] E4_blocked_2s  global replan -> replan 13 ms
+[  50.5s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  52.5s] E4_blocked_2s  global replan -> replan 10 ms
+[  52.6s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  54.6s] E1_path_blocked  new lethal cell on path (risk 96) -> replan 11 ms
+[  54.9s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  55.1s] E1_path_blocked  new lethal cell on path (risk 96) -> replan 12 ms
+[  55.7s] E1_path_blocked  new lethal cell on path (risk 91) -> replan 10 ms
+[  56.2s] E1_path_blocked  new lethal cell on path (risk 97) -> replan 9 ms
+[  56.7s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 9 ms
+[  57.2s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  57.3s] E1_path_blocked  new lethal cell on path (risk 93) -> replan 10 ms
+[  57.8s] E1_path_blocked  new lethal cell on path (risk 93) -> replan 10 ms
+[  59.2s] E4_blocked_2s  global replan -> replan 9 ms
+[  59.3s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  61.3s] E4_blocked_2s  global replan -> replan 11 ms
+[  61.4s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  63.4s] E4_blocked_2s  global replan -> replan 12 ms
+[  63.5s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  65.6s] E1_path_blocked  new lethal cell on path (risk 93) -> replan 9 ms
+[  65.9s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  66.2s] E1_path_blocked  new lethal cell on path (risk 92) -> replan 7 ms
+[  66.9s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 7 ms
+[  67.5s] E1_path_blocked  new lethal cell on path (risk 100) -> replan 7 ms
+[  68.1s] E1_path_blocked  new lethal cell on path (risk 93) -> replan 8 ms
+[  68.2s] HOLD_no_feasible_arc  vehicle holds, waiting for map to settle
+[  70.0s] WORLD_lighting  sun intensity -> 1.00
+[  70.0s] GOV_band  CAUTIOUS (C=0.58)
+[  70.0s] E3_confidence_band_change  cost function changed -> replan 10 ms
+[  70.4s] GOV_band  NORMAL (C=0.82)
+[ 172.5s] GOAL_reached  146.2 m in 172 s
